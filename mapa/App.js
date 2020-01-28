@@ -23,7 +23,7 @@ export default class App extends Component {
     return (
       <View style={estilos.contenedor}>
         <TouchableOpacity onPress={this.encontrarCoordenadas}>
-          <Text style={estilos.texto}>Donde Estoy?</Text>
+          <Text style={estilos.texto}>Mi Ubicacion</Text>
           <Text>Ubicación: {this.state.ubicacion}</Text>
         </TouchableOpacity>
       </View>
