@@ -1,7 +1,7 @@
 {
-    "name": "apimysql",
+    "name": "APIMAPA",
     "version": "1.0.0",
-    "description": "API REST con MySQL",
+    "description": "MAPA REACT",
     "main": "index.js",
     "scripts": {
         "start": "nodemon ./app.js"
