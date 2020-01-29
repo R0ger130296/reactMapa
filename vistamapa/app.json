@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mapa",
-    "slug": "mapa",
+    "name": "vistamapa",
+    "slug": "vistamapa",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [

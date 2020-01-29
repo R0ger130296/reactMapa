@@ -8,10 +8,16 @@ module.exports = db.sequelize.define("ubicaciones", {
     primaryKey: true,
     autoIncrement: true
   },
-  longitude: {
+  latitud: {
     type: Sequelize.STRING
   },
-  latitude: {
+  longitud: {
+    type: Sequelize.STRING
+  },
+  fecha: {
+    type: Sequelize.DATE
+  },
+  nombre: {
     type: Sequelize.STRING
   }
 });
